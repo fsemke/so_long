@@ -1,4 +1,7 @@
 # so_long
+![image](https://github.com/fsemke/so_long/assets/94831163/c16d4de2-5bfd-4f4c-92d9-a233365199e9)
+
+
 The aim of this project is to develop a simple top-view 2D game, using the miniLibX library.
 In the game the player have to push all buttons and grab the treasure making as few moves as possible.
 
