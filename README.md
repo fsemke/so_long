@@ -1,5 +1,5 @@
 # so_long
-![image](https://github.com/fsemke/so_long/assets/94831163/c16d4de2-5bfd-4f4c-92d9-a233365199e9)
+![ezgif com-video-to-gif](https://github.com/fsemke/so_long/assets/94831163/6ae738dc-4ede-4d86-a7a4-4daa5269d176)
 
 
 The aim of this project is to develop a simple top-view 2D game, using the miniLibX library.
